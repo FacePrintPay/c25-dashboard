@@ -12,6 +12,6 @@ chmod +x dashboard.sh
 ```
 
 ## Source
-/data/data/com.termux/files/home/constellation25-mono/sovereign-gtp/dashboard.sh
+/data/data/com.termux/files/home/sovereign-gtp/dashboard.sh
 
 Built by Constellation 25 — FacePrintPay / Cygel White
